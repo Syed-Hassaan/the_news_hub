@@ -1,16 +1,7 @@
 # the_news_hub
 
-A new Flutter project.
+A NEWS PROJECT BASED ON FLUTTER TECHNOLOGY
 
-## Getting Started
+## THE NEWS HUB
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The NEW HUB app brings to you some of the best articles, analysis and commentary, and opinion pieces written by news editors and columnists with expertise in their areas. Fast and accurate updates on the news hub world app will ensure that you find the latest world news updates, breaking news, top headlines, trending news, and much more on your fingertips. The news hub app is developed in flutter language and it is especially designed for Android devices and enables users to get breaking news and headlines at the tip of your hands.
